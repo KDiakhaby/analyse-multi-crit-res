@@ -1,3 +1,10 @@
+                                                    Mamadou Sane
+                                                    Mawa Diaw
+                                                    Kounting Diakhaby
+                                                    Maou Diarra 
+
+
+
 # Analyse Hiérarchique des Processus (AHP)
 
 ## Critères de Décision et Facteurs Associés
